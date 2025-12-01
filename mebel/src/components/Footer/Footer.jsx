@@ -8,15 +8,15 @@ function Footer() {
 
                 <div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="./public/img/DudeShape.svg" alt="" />
                         <p>Lorem ipsum dolor sit amet, conse
                             ctetur adipiscing elit, sed eiusmod tempor incididunt ut labore .</p>
                         <h2>Follow Us :</h2>
                         <div>
-                            <img src="Group 8872.svg" alt="" />
-                            <img src="Group 8873.svg" alt="" />
-                            <img src="Group 8874.svg" alt="" />
-                            <img src="Group 8892.svg" alt="" />
+                            <img src="./public/img/Group 8872.svg" alt="" />
+                            <img src="./public/img/Group 8873.svg" alt="" />
+                            <img src="./public/img/Group 8874.svg" alt="" />
+                            <img src="./public/img/Group 8892.svg" alt="" />
                         </div>
                     </div>
                     <div>
