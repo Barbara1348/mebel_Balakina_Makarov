@@ -36,3 +36,8 @@ section {
     font-family: "DM Sans";
     max-width: max-content;
 }
+
+.img {
+    display: flex;
+    width: 100%;
+}

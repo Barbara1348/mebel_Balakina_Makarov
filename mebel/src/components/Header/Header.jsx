@@ -5,7 +5,7 @@ function Header() {
     return (
         <>
             <header>
-                <img src="./public/img/DudeShape.svg" alt="" />
+                <img src="./public/img/DudeShape1.svg" alt="" />
                 <nav className="">
                     <ul>
                         <li>Home</li>
