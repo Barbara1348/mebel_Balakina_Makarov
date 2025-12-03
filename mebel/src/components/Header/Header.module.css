@@ -5,16 +5,16 @@ align-items: center;
 justify-content: space-between;
 }
 
-nav {
+.nav {
     display: flex;
 }
 
-ul {
+.ul {
     display: flex;
     gap: 50px;
 }
 
-li {
+.li {
     font-family: "DM Sans";
     list-style: none;
     color: #161616;

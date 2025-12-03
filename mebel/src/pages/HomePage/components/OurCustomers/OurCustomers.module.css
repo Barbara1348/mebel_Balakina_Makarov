@@ -1,0 +1,49 @@
+.our_customers {
+    margin: 140px 120px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p {
+    color: #444444;
+    font-family: "DM Sans";
+    font-size: 20px;
+    margin: 20px 0 40px 0;
+}
+
+.group {
+    max-width: 30vw;
+}
+
+.otsenka {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.stars {
+    font-size: 14px;
+    font-family: "DM Sans";
+}
+
+.user {
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.comment {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.feedback {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

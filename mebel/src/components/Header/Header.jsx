@@ -6,12 +6,12 @@ function Header() {
         <>
             <header>
                 <img src="./public/img/DudeShape1.svg" alt="" />
-                <nav className="">
-                    <ul>
-                        <li>Home</li>
-                        <li>About</li>
-                        <li>Features</li>
-                        <li>Contact</li>
+                <nav className={style.nav}>
+                    <ul className={style.ul}>
+                        <li className={style.li}>Home</li>
+                        <li className={style.li}>About</li>
+                        <li className={style.li}>Features</li>
+                        <li className={style.li}>Contact</li>
                     </ul>
                 </nav>
                 <div className={style.icons}>

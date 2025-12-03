@@ -1,7 +1,7 @@
 .h1 {
     color: white;
     font-family: "Montserrat";
-    font-size: 80px;
+    font-size: 60px;
     max-width: 850px;
 }
 
@@ -11,6 +11,7 @@
     flex-direction: column;
     justify-content: center;
     padding: 120px;
+    width: 100%;
 }
 
 .p {
@@ -24,7 +25,6 @@
 section {
     display: flex;
     margin: 0 120px 140px;
-    
 }
 
 .button {
@@ -38,6 +38,5 @@ section {
 }
 
 .img {
-    display: flex;
-    width: 100%;
+    height: 70vh;
 }

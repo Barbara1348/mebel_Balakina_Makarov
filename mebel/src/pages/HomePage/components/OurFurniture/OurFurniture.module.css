@@ -1,0 +1,75 @@
+.our_furniture {
+    margin: 0 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.p {
+    color: #444444;
+    font-family: "DM Sans";
+    font-size: 20px;
+    max-width: 50vw;
+}
+
+.slider {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    box-shadow: 2px 2px 20px 1px rgba(0, 0, 0, 0.2);
+}
+
+.elements {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    gap: 20px;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p1 {
+    font-size: 24px;
+    color: #154444;
+    font-family: "DM Sans";
+    font-weight: 500;
+}
+
+.button {
+    background-color: #154444;
+    color: white;
+    padding: 5px 15px;
+    font-family: "DM Sans";
+    font-weight: 400;
+}
+
+.buttons {
+    display: flex;
+    gap: 16px;
+}
+
+.button_right {
+    padding: 12px 13px 9px 11px;
+    border-radius: 100%;
+    border: none;
+    background-color: #F4F6F6;
+}
+
+.button_left {
+    padding: 12px 11px 9px 13px;
+    border-radius: 100%;
+    border: none;
+    background-color: #F4F6F6;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 60px;
+}
