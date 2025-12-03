@@ -14,30 +14,30 @@ function AllFurniture() {
                     </ul>
                 </div>
                 <div className={style.container}>
-                    <img src="./public/img/Group 8990.png" alt="" />
+                    <img src="./img/Group 8990.png" alt="" loading="lazy"/>
                     <div className={style.buttons}>
                         <button className={style.button}>
-                            <img src="./public/img/Group 8917.svg" alt="" />
+                            <img src="./img/Group 8917.svg" alt="" loading="lazy"/>
                             <p>Living Room</p>
                         </button>
                         <button className={style.button}>
-                            <img src="./public/img/Group 8923.svg" alt="" />
+                            <img src="./img/Group 8923.svg" alt="" loading="lazy"/>
                             <p>Kitchen</p>
                         </button>
                         <button className={style.button}>
-                            <img src="./public/img/Group 8925.svg" alt="" />
+                            <img src="./img/Group 8925.svg" alt="" loading="lazy"/>
                             <p>Dining Room</p>
                         </button>
                         <button className={style.button1}>
-                            <img src="./public/img/Group 8926.svg" alt="" />
+                            <img src="./img/Group 8926.svg" alt="" loading="lazy"/>
                             <p>Office</p>
                         </button>
                         <button className={style.button}>
-                            <img src="./public/img/Group 8927.svg" alt="" />
+                            <img src="./img/Group 8927.svg" alt="" loading="lazy"/>
                             <p>Bed Room</p>
                         </button>
                         <button className={style.button}>
-                            <img src="./public/img/Group 8928.svg" alt="" />
+                            <img src="./img/Group 8928.svg" alt="" loading="lazy"/>
                             <p>Hallway</p>
                         </button>
                     </div>

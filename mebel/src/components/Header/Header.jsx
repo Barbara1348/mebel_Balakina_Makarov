@@ -5,7 +5,7 @@ function Header() {
     return (
         <>
             <header>
-                <img src="./public/img/DudeShape1.svg" alt="" />
+                <img src="./img/DudeShape1.svg" alt="" loading="lazy" />
                 <nav className={style.nav}>
                     <ul className={style.ul}>
                         <li className={style.li}>Home</li>
@@ -15,8 +15,8 @@ function Header() {
                     </ul>
                 </nav>
                 <div className={style.icons}>
-                    <img src="./public/img/loupe 1.svg" alt="" />
-                    <img src="./public/img/menu 1.svg" alt="" />
+                    <img src="./img/loupe 1.svg" alt="" loading="lazy"/>
+                    <img src="./img/menu 1.svg" alt="" loading="lazy"/>
                 </div>
             </header>
         </>

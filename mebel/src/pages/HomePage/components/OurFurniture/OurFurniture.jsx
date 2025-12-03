@@ -10,17 +10,17 @@ function OurFurniture() {
                     <p className={style.p}>All of our furniture uses the best materials and choices for our customers.All of our furniture uses the best materials and choices for our customers.</p>
                     <div className={style.buttons}>
                         <button className={style.button_right}>
-                            <img src="./img/Group 8969.svg" alt="" />
+                            <img src="./img/Group 8969.svg" alt="" loading="lazy"/>
                         </button>
                         <button className={style.button_left}>
-                            <img src="./img/Group 8968.svg" alt="" />
+                            <img src="./img/Group 8968.svg" alt="" loading="lazy"/>
                         </button>
                     </div>
                 </div>
 
                 <div className={style.slider}>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 34.png" alt="" />
+                        <img src="./img/Rectangle 34.png" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>
@@ -30,7 +30,7 @@ function OurFurniture() {
                         </div>
                     </div>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 38.png" alt="" />
+                        <img src="./img/Rectangle 38.png" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>
@@ -40,7 +40,7 @@ function OurFurniture() {
                         </div>
                     </div>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 36.png" alt="" />
+                        <img src="./img/Rectangle 36.png" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>

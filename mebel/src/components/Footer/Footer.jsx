@@ -7,15 +7,15 @@ function Footer() {
             <footer>
                 <div className={style.container}>
                     <div className={style.group}>
-                        <img src="./public/img/DudeShape.svg" alt="" />
+                        <img src="./img/DudeShape.svg" alt="" loading="lazy" />
                         <p className={style.p}>Lorem ipsum dolor sit amet, conse
                             ctetur adipiscing elit, sed eiusmod tempor incididunt ut labore .</p>
                         <h5>Follow Us :</h5>
                         <div className={style.icons}>
-                            <img src="./public/img/Group 8872.svg" alt="" />
-                            <img src="./public/img/Group 8873.svg" alt="" />
-                            <img src="./public/img/Group 8874.svg" alt="" />
-                            <img src="./public/img/Group 8892.svg" alt="" />
+                            <img src="./img/Group 8872.svg" alt="" loading="lazy"/>
+                            <img src="./img/Group 8873.svg" alt="" loading="lazy"/>
+                            <img src="./img/Group 8874.svg" alt="" loading="lazy"/>
+                            <img src="./img/Group 8892.svg" alt="" loading="lazy"/>
                         </div>
                     </div>
                     <div className={style.group}>
