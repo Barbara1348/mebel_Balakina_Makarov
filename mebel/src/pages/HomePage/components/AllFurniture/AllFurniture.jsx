@@ -14,7 +14,7 @@ function AllFurniture() {
                     </ul>
                 </div>
                 <div className={style.container}>
-                    <img src="./img/Group 8990.png" alt="" loading="lazy"/>
+                    <img src="./img/Group 8990.webp" alt="" loading="lazy"/>
                     <div className={style.buttons}>
                         <button className={style.button}>
                             <img src="./img/Group 8917.svg" alt="" loading="lazy"/>

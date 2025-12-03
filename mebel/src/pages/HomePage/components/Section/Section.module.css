@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 120px;
+    padding: 100px;
     width: 100%;
 }
 
@@ -38,5 +38,5 @@ section {
 }
 
 .img {
-    height: 70vh;
+    height: 90vh;
 }

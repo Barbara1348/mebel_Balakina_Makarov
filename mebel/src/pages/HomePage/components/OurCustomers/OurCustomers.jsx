@@ -6,12 +6,12 @@ function OurCustomers() {
         <>
             <div className={style.our_customers}>
                 <div className={style.container}>
-                    <img src="./img/Group 9009.png" alt="" loading="lazy"/>
+                    <img src="./img/Group 9009.webp" alt="" loading="lazy"/>
                     <div className={style.group}>
                         <h2>Our customers are very important to us</h2>
                         <p className={style.p}>All of our furniture uses the best materials and choices for our customers.All of our furniture uses the best materials and choices for our customers.</p>
                         <div className={style.feedback}>
-                            <img src="./img/Ellipse 28.png" alt="" loading="lazy"/>
+                            <img src="./img/Ellipse 28.webp" alt="" loading="lazy"/>
                             <div className={style.comment}>
                                 <p className={style.user}>Mh Jibon</p>
                                 <div className={style.otsenka}>

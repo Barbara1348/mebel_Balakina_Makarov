@@ -5,7 +5,7 @@ function AboutUs() {
     return (
         <>
             <div className={style.about_us}>
-                <img src="./img/Group 8988.png" alt="" loading="lazy"/>
+                <img src="./img/Group 8988.webp" alt="" loading="lazy"/>
                 <div className={style.group}>
                     <div className={style.zagolovok}>
                         <h2>About Us</h2>

@@ -20,7 +20,7 @@ function OurFurniture() {
 
                 <div className={style.slider}>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 34.png" alt="" loading="lazy"/>
+                        <img src="./img/Rectangle 34.webp" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>
@@ -30,7 +30,7 @@ function OurFurniture() {
                         </div>
                     </div>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 38.png" alt="" loading="lazy"/>
+                        <img src="./img/Rectangle 38.webp" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>
@@ -40,7 +40,7 @@ function OurFurniture() {
                         </div>
                     </div>
                     <div className={style.container}>
-                        <img src="./img/Rectangle 36.png" alt="" loading="lazy"/>
+                        <img src="./img/Rectangle 36.webp" alt="" loading="lazy"/>
                         <div className={style.elements}>
                             <h4>White Swan Chair </h4>
                             <div className={style.text}>
