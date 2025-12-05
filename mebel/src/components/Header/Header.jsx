@@ -1,4 +1,5 @@
 import style from "./Header.module.css"
+import { Link } from "react-router-dom"
 
 function Header() {
 
@@ -8,8 +9,8 @@ function Header() {
                 <img src="./img/DudeShape1.svg" alt="" loading="lazy" />
                 <nav className={style.nav}>
                     <ul className={style.ul}>
-                        <li className={style.li}>Home</li>
-                        <li className={style.li}>About</li>
+                        <Link to="/"><li className={style.li}>Home</li></Link>
+                        <Link to="/second"><li className={style.li}>About</li></Link>
                         <li className={style.li}>Features</li>
                         <li className={style.li}>Contact</li>
                     </ul>

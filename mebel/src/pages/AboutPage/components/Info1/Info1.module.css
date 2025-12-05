@@ -1,0 +1,48 @@
+.h1 {
+    color: white;
+    font-family: "Montserrat";
+    font-size: 60px;
+    max-width: 850px;
+}
+
+.container {
+    background-color: #154444;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+    width: 100%;
+}
+
+.p {
+    color: white;
+    font-family: "DM Sans";
+    font-size: 25px;
+    max-width: 600px;
+    margin: 20px 0 35px;
+}
+
+section {
+    display: flex;
+    margin: 0 120px 140px;
+}
+
+.button {
+    padding: 15px 25px;
+    border: none;
+    background-color: white;
+    color: #154444;
+    font-size: 20px;
+    font-family: "DM Sans";
+    max-width: max-content;
+}
+
+.img {
+    height: 90vh;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+    margin: 140px 120px;
+}
